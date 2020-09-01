@@ -10,7 +10,7 @@ Extending Aspire is easy. In the Aspire Budgeting Docs, there's an entire sectio
 You can learn more about the APIs available here in [Google's documentation](https://developers.google.com/apps-script/reference/spreadsheet)
 
 ## Build@Aspire classifications
-Aspire can be extended in many ways. There are 5 classifications of Build@Aspire extensions. These are:
+Aspire can be extended in many ways. There are 3 classifications of Build@Aspire extensions. These are:
 - Spreadsheets
 - Mobile apps
 - CLI tools & scripts
