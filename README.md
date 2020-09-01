@@ -28,7 +28,7 @@ All Build@Aspire spreadsheets should:
   - The Aspire Budgeting website
   - The Aspire Budgeting subreddit
   - Your personal website, your Twitter page, etc.
-- Include a 'Getting Started' tab that contains:
+- Include a `Getting Started` tab that contains:
   - An overview of what your spreadsheet does
   - How to use your spreadsheet
   - Contact information (Reddit username preffered) for the developer if users have a question or feedback
